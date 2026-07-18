@@ -1,0 +1,22 @@
+7/07/2026 (Sofia)
+
+data: karate club net
+
+Repo created. Created conda environment for project. Started to work on karate club network:
+	importing dataset from networkx, inspected network. 
+Started to implement some functions for creating partitions and computing paper equations.
+
+
+17/07/2026 (Gab)
+
+data: karate club net
+
+Wrote code for generating hypothetical observation. 
+Updatede conda env.
+Continued work on Metropolis algorithm started by Sofia: 
+	implemented other equations and accepting/rejecting algorithm.
+
+18/07/2026 (Gab)
+
+data: karate club net
+
