@@ -1,5 +1,5 @@
 # Information Theory and Inference Project:
-# Missing and spurious interactions and the reconstruction of complex networks
+## Missing and spurious interactions and the reconstruction of complex networks
 
 This repo contains our project for Information Theory and Inference course. Our aim is to analyze well-known complex networks and reconstruct their properties from noisy observations of the networks themselves. 
 
